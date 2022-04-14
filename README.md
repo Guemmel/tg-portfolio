@@ -1,14 +1,7 @@
-# tg-portfolio
+# Info
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+This is a portfolio template for [@Guemmel](https://github.com/Guemmel) made with Vue, Vite and TailwindCSS and is heavily (the same) inspired by a Squarespace [template](https://balboa-demo-de.squarespace.com/).
+Actually not 100% the same due to my laziness. I don't think I will fix it...
 
 ## Project Setup
 
